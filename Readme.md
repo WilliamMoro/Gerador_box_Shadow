@@ -34,7 +34,7 @@ O projeto Box Shadow foi desenvolvido para diminuir o tempo que o programador fr
   <img alt="Box Shadow" src=".//github/Exemplo_do_código.png" width="100%">
 </p>
 
-- [Acesse o projeto finalizado, online](https://github.com/WilliamMoro/Generate_password).
+- [Acesse outros projetos finalizados, online](https://github.com/WilliamMoro).
 
 - Fique a vontade para dar dicas e opiniões construtivas. Obrigado! 
 
