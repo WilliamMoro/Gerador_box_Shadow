@@ -14,7 +14,7 @@ Programador feliz é programador com praticidade! <br/>
 <br>
 
 <p align="center">
-  <img alt="Box Shadow" src=".//github/previw.png" width="100%">
+  <img alt="Box Shadow" src=".//github/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
